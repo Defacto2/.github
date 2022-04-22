@@ -14,6 +14,14 @@ Visit the issues to see or leave a suggestion of future enhancements for the sit
 
 Please feel free to contact us on social or over email.
 
+#### [Sceners on GitHub](https://github.com/sceners)
+
+Our collection of historical code sources for scene tools, demos, intros and magazines.
+
+#### [Websites repository](https://github.com/Defacto2/websites)
+
+Our collection of historical websites for the scene and Defacto2. 
+
 <!--
 
 **Here are some ideas to get you started:**
