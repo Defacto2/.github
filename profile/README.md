@@ -2,13 +2,17 @@
 
 Unfortunately, the source code to the [defacto2.net](https://defacto2.net) website is not available, but we do offer other codes and databases.
 
+The collection of historical code sources for scene tools, demos, intros, and magazines has moved: [https://github.com/sceners](github.com/sceners).
+
+---
+
 #### [Issues](https://github.com/Defacto2/defacto2-website/issues/new)
 
-If you have discovered a bug with the site it would be a great help if you could report it!
+If you have discovered a bug with the site, it would be a great help if you could report it!
 
 #### [Suggestions](https://github.com/Defacto2/defacto2.net/issues)
 
-Visit the issues to see or leave a suggestion of future enhancements for the site.
+Visit the issues to see or leave a suggestion for future enhancements for the site.
 
 #### [Contact](https://defacto2.net/contact)
 
@@ -18,15 +22,15 @@ Please feel free to contact us on social or over email.
 
 #### [Sceners on GitHub](https://github.com/sceners)
 
-Our collection of historical code sources for scene tools, demos, intros and magazines.
+Sceners is our collection of historical code sources for scene tools, demos, intros and magazines.
 
 #### [Database repository](https://github.com/Defacto2/database)
 
-Information on how to obtain and use the Defacto2 website database.
+The database has information on obtaining and using the Defacto2 website database.
 
 #### [Websites repository](https://github.com/Defacto2/websites)
 
-Our collection of historical websites for the scene and Defacto2. 
+The website is our collection of historical websites for the scene and Defacto2.
 
 <!--
 
