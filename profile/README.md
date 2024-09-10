@@ -1,20 +1,22 @@
 ## Defacto2 on GitHub
 
-Welcome to the Defacto2 repositories! Unfortunately, the source code to the [defacto2.net](https://defacto2.net) website is unavailable, but there are plenty of other sources and databases on offer.
+Welcome to the Defacto2 repositories! The source code to the [defacto2.net](https://defacto2.net) website is available in the [server](https://github.com/Defacto2/server) repository.
 
-_The collection of historical code sources for scene tools, demos, intros, and magazines has moved to its own **Sceners** repository, [https://github.com/sceners](github.com/sceners)._
+_The collection of historical code sources for scene tools, demos, intros, and magazines has its own **[Sceners](https://github.com/sceners)** organisation._
 
-#### [Contact](https://defacto2.net/contact)
-
-Please feel free to contact us on social or over email. GitHub users are also able to [leave issues or suggestions](https://github.com/Defacto2/defacto2.net/issues) for defacto2.net.
+Please feel free to contact us on Discord, social or over email.
 
 ---
+
+### [Web server software](https://github.com/Defacto2/server)
+
+Our custom web server programmed in [Go](https://go.dev/), and the code is open source.
 
 ### [Sceners](https://github.com/sceners)
 
 Sceners is our collection of historical code sources for scene tools, demos, intros, and magazines.
 
-### [Files database](https://github.com/Defacto2/database)
+### [Database](https://github.com/Defacto2/database)
 
 The database has information on obtaining and using the Defacto2 website database.
 
