@@ -18,6 +18,6 @@ The database has information on obtaining and using the Defacto2 website databas
 
 Sceners is our collection of historical code sources for scene tools, demos, intros, and magazines found through file submissions to the website.
 
-### 💾 &nbsp; [Websites repository](https://github.com/Defacto2/websites)
+### 💾 &nbsp; [Websites](https://github.com/Defacto2/websites)
 
 The websites repository is our collection of historical web documents found from the scene.
