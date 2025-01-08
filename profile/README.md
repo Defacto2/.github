@@ -6,9 +6,9 @@ Please feel free to contact us on Discord, social or over email.
 
 ---
 
-### 💾 &nbsp; [Web software](https://github.com/Defacto2/server)
+### 💾 &nbsp; [Website](https://github.com/Defacto2/server)
 
-Our custom web server programmed in [Go](https://go.dev/), and the code is open source.
+Our custom website server programmed in [Go](https://go.dev/), and the code is open source.
 
 ### 💾 &nbsp; [Database](https://github.com/Defacto2/database)
 
