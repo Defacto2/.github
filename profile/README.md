@@ -7,6 +7,16 @@ Please feel free to contact _.defacto2_ on [Discord](https://discord.gg/AJ2xV8X)
 
 There's also a RESTful API [defacto2.net/api](https://defacto2.net/api) and a complete SQL database document [defacto2.net/sql/files.sql](https://defacto2.net/sql/files.sql)
 
+```
+      ·      ▒██▀ ▀       ▒██▀ ▀              ▀ ▀▒██             ▀ ▀███ ·
+      : ▒██▀ ▓██ ▒██▀▀██▓ ▓██▀▀▒██▀▀███ ▒██▀▀██▓ ▓██▀ ▒██▀▀███ ▒██▀▀▀▀▀ :
+ · ··─┼─▓██──███─▓██─▄███─███──▓██──███─▓██──────███──▓██──███─▓██──███─┼─·· ·
+      │ ███▄▄██▓ ███▄▄▄▄▄▄██▓  ███▄ ███▄███▄▄███ ███▄▄███▄ ███▄███▄▄███ │
+· ··──┼─────────··                defacto2.net               ··─────────┼──·· ·
+      │                                                                 :
+      :                          ·· GIT HUB ··                          ·
+```
+
 ---
 
 ### 💾 &nbsp; [Website](https://github.com/Defacto2/server)
