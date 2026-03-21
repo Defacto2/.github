@@ -3,7 +3,7 @@
 Welcome to the Defacto2 on GitHub! A website conserving defunct software, wares, and elite Scene subcultures on obsolete Personal Computers.
 By documenting and hosting digital artifacts, including text files, demos, music, art, magazines, and other projects.
 
-Please feel free to contact us on Discord, social or over email.
+Please feel free to contact _.defacto2_ on [Discord](https://discord.gg/AJ2xV8X), socials, or over email.
 
 There's also a RESTful API [defacto2.net/api](https://defacto2.net/api) and a complete SQL database document [defacto2.net/sql/files.sql](https://defacto2.net/sql/files.sql)
 
